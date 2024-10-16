@@ -1,2 +1,6 @@
-# myfirstrepo
-Create Repository
+myfirstrepo
+=======
+
+My First GitHub Repository
+
+Hello from my PC!
